@@ -1,0 +1,16 @@
+{
+  "name": "regexps",
+  "repo": "bmcmahen/regexps",
+  "description": "some useful regexps for validation purposes",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
